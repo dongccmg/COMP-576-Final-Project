@@ -21,7 +21,7 @@ The rest 4 corresponds to a neural network respectively. They include the model 
 
 *dense_weights1210_16k_aug_data.27.h5* is the weight of the 27th epoch training on augmented data using DenseNet with k = 16. The date is 12/10.
 
-*inc_weights1211_original_data.12.h5* is the weight of the 12th epoch training on original data using Inception Net. The date is 12/10
+*inc_weights1211_original_data.12.h5* is the weight of the 12th epoch training on original data using Inception Net. The date is 12/11.
 
 
 

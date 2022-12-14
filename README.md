@@ -1,9 +1,9 @@
-# COMP-576-Final-Projectf
+## COMP-576-Final-Projectf
 There are 5 notebooks, one is the visualization of the dataset.
 
 The rest 4 corresponds to a neural network respectively. They include the model itself, the training process, and the testing process.
 
-dataset 2 is the dataset folder:
+#dataset2 is the dataset folder:
 
 test folder contains the 100 test samples' image.
 

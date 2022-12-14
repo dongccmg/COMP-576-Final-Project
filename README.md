@@ -19,9 +19,9 @@ The rest 4 corresponds to a neural network respectively. They include the model 
 
 **sampleWeight** contains two model's weight stored during training:
 
-*dense_weights1210_16k_aug_data.27.h5* is the weight of the 27th epoch training on augmented data using denseNet with k = 16
+*dense_weights1210_16k_aug_data.27.h5* is the weight of the 27th epoch training on augmented data using DenseNet with k = 16
 
-*inc_weights1211_original_data.12.h5* is the weight of the 12th epoch training on original data using inception Network
+*inc_weights1211_original_data.12.h5* is the weight of the 12th epoch training on original data using Inception Net
 
 
 
